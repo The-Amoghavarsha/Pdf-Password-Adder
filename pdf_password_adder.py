@@ -26,7 +26,7 @@ def add_password():
 
 #window
 root = tk.Tk()
-root.title("PDF Password Adder by amoghavarsha.in")
+root.title("PDF Password Adder")
 
 #labels and widgets
 label_pdf = tk.Label(root, text="Select PDF File:")

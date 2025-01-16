@@ -9,7 +9,7 @@ setup(
     author_email='amoghavarsha004@gmail.com',
     license='MIT',
     packages=find_packages(),
-    install_requires=[],
+    install_requires=["qpdf"],
     entry_points={
         'console_scripts': [
             'pdf_password_adder = pdf_password_adder.pdf_password_adder:main'
