@@ -8,7 +8,7 @@ Ensure the following dependencies are installed:
 
 1. **Python 3**: Required to run the script.
 2. **Dependencies**: 
-   - `python3-tk`: For GUI-based functionalities (if applicable).
+   - `python3-tk`: For GUI-based functionalities.
    - `qpdf`: For PDF processing.
 
 ### Installation Instructions
@@ -58,6 +58,3 @@ python3 pdf_password_adder.py
 ```
 
 Once the script runs successfully, a **new AES-256 encrypted PDF file** will be generated, original file will be unaffected.
-
-![image](https://github.com/The-Amoghavarsha/Pdf-Password-Adder/assets/35860305/a6ddcf86-b1e9-4324-a5e5-b3e69685337d)
-
