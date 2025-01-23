@@ -54,7 +54,7 @@ brew install python-tk qpdf
 After installing the dependencies, execute the script using the following command:
 
 ```bash
-python3 pdf_password_adder.py
+python3 pdf_password_adder/pdf_password_adder.py
 ```
 
 Once the script runs successfully, a **new AES-256 encrypted PDF file** will be generated, original file will be unaffected.
